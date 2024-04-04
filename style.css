@@ -165,6 +165,9 @@ section {
     display: flex;
 }
 
+.short-section {
+    height: 50vh;
+}
 
 /* PROFILE SECTION */
 
